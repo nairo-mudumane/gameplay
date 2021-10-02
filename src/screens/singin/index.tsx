@@ -7,6 +7,7 @@ export function SingIn() {
 
   return (
     <View style={styles.container}>
+      <Text style={styles.title}>Digite Algo</Text>
       <Text>{text}</Text>
 
       <TextInput style={styles.input} onChangeText={setText} />
