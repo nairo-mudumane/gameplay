@@ -20,12 +20,11 @@ export function SingIn() {
       />
       <View style={styles.content}>
         <Text style={styles.title}>
-          Organize {`\n`}
-          suas jogatinas {`\n`}
+          Conecte-se {'\n'}e suas jogatinas {'\n'}
           facilmente
         </Text>
         <Text style={styles.subtitle}>
-          Crie grupos para jogar seus games {`\n`}
+          Crie grupos para jogar seus games {'\n'}
           favoritos com seus amigos
         </Text>
         <ButtonIcon title="Entrar com Discord" activeOpacity={0.6} />
